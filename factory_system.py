@@ -77,8 +77,3 @@ plt.xlabel("time (hours)")
 plt.ylabel("cost")
 
 plt.show()
-
-
-
-
-
